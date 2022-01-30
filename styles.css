@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+.app-container {
+  display: block;
+  justify-content: center;
+  align-content: center;
+  background: #dedede;
+  border: 3px #5a5555 solid;
+}
+.app-header {
+  justify-content: center;
+  align-content: center;
+}
+.input-form {
+  margin-top: 1rem;
+}
+.need-to--do {
+  margin-top: 1rem;
+}
+.to-do--list {
+  color: #07ac1d;
+}
+.to-do--list button {
+  color: red;
+  border-radius: 5px;
+}
+.to-do--list ul {
+  margin-top: 2rem;
+  list-style: none;
+}
